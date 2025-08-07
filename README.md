@@ -4,7 +4,7 @@ A simple and responsive Link-in-Bio landing page designed for food vendors who w
 
 ## 🌐 Live Demo
 👉 [View Live Site](https://foodlinkbio.netlify.app/)  
-(Replace this with your actual Netlify/Gumroad link)
+
 
 ## 📌 Features
 - Minimal layout focused on food images and CTAs
